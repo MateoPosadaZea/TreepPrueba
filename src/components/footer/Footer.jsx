@@ -8,6 +8,7 @@ export class Footer extends Component{
         return(
            <div>
                <h1>MATEOOOOOOOO</h1>
+               <H4></H4>
 
            </div>
 
